@@ -1,2 +1,3 @@
 # Excel-Project
-All Excel projects
+I have all excel projects in this repository.
+Feel free to go through it. :)
