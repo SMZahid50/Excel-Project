@@ -36,3 +36,9 @@ City, Gender, Customer
 
 ![image](https://github.com/SMZahid50/Excel-Project/assets/160847091/e8ec7c0c-0e3e-4092-b1d9-3cae1334bb8a)
 
+![Untitled (2)](https://github.com/SMZahid50/Excel-Project/assets/160847091/fd9a21d3-65b8-419e-95ee-a8c4b71826d1)
+
+
+
+
+
